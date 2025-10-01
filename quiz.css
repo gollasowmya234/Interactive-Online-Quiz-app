@@ -1,0 +1,10 @@
+/* Import Google Font (Inter) for global use */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Apply font and background color to the body */
+body {
+    /* Sets the global font family */
+    font-family: 'Inter', sans-serif;
+    /* Sets the background color for the page */
+    background-color: #f3f4f6;
+}
